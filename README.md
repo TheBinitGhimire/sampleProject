@@ -1,2 +1,2 @@
-## Git Basics - Assignment
+## Git Basics - Assignment 1
 ### Author: Binit Ghimire
